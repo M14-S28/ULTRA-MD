@@ -42,7 +42,7 @@
 
 Fork Repo & Just Replace Your Number
 
-globalbotNumber = '923051391007'
+globalbotNumber = '254795452444'
 
 In config.js And It Will Directly Shows You A Pairing Code At The End Of Deployment, Pair And Enjoy.
 
@@ -113,7 +113,7 @@ set the Env Vars.
 
 _Heroku is not gonna work with creds.json for this bot only. So replace this number_
 
-_golbal.botNumber='923051391007'_
+_golbal.botNumber='254795452444'_
 _with your number in config.js_
 
 _Then in Deployment terminal It will Shows you a pairing code at the end of Deployment, Pair with your WhatsApp and enjoy._
